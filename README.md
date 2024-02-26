@@ -12,7 +12,6 @@ There are a few things which you want to start off with when just joining the wo
 4. Craft additional armor (accessories) and normal armor.
 - Basic Belt: 4 leather (top, right, down, left). Adds 1 armor toughness.
 - Iron/Gold Ring: 4 iron or gold (top, right, down, left). Adds no stats on its own, does have socketed stat. If they don't have socketed stat: Apotheosis grading is needed and making this armor now has no use.
-- ![Iron Ring](https://github.com/Blubberdique/Glugcore/assets/59876805/e8e9d2e8-2d12-4add-a5ba-3491b28f266a)
 - Iron/Gold Pendant: 5 string, 1 iron or gold. Adds no stats on its own, does has socketed stat.
 - Leather/Iron/Gold Gloves: 2 leather/iron/gold. Place them in middle left and middle right crafting slots. Adds some attack damage depending on material.
 
