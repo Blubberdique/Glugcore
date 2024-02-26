@@ -1,6 +1,9 @@
 # MCServer
 Configs, mods and guides for the Minecraft server.
 
+## Use the following website to make 3x3 craftings easier to visualize:
+https://crafting.thedestruc7i0n.ca/
+
 ### Copied from the Getting Started guide:
 
 There are a few things which you want to start off with when just joining the world. I've listed them down here:
