@@ -15,3 +15,4 @@ There are a few things which you want to start off with when just joining the wo
 - Iron/Gold Pendant: 5 string, 1 iron or gold. Adds no stats on its own, does has socketed stat.
 - Leather/Iron/Gold Gloves: 2 leather/iron/gold. Place them in middle left and middle right crafting slots. Adds some attack damage depending on material.
 
+5. Craft an Iron or higher tier Bag. 
