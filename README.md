@@ -23,8 +23,8 @@ There are a few things which you want to start off with when just joining the wo
 - ![gloves](https://github.com/Blubberdique/Glugcore/assets/59876805/b9cd31f8-2c3c-4738-b900-8dd64592762e)
 
 5. Craft a leather or higher tier Bag. 
-The leather bag is the lowest tier and is made by replacing the iron ingots with leather. To craft higher tiers, replace the ingots with: Gold Ingots, Diamonds, ({Items for Voidbag}).
-![Iron Bag](https://github.com/Blubberdique/Glugcore/assets/59876805/54f0bfbd-5f86-4226-b187-02c23c02db19)
+-The leather bag is the lowest tier and is made by replacing the iron ingots with leather. To craft higher tiers, replace the ingots with: Gold Ingots, Diamonds, ({Items for Voidbag}).
+-![Iron Bag](https://github.com/Blubberdique/Glugcore/assets/59876805/54f0bfbd-5f86-4226-b187-02c23c02db19)
 
 
 
