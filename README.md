@@ -18,4 +18,12 @@ There are a few things which you want to start off with when just joining the wo
 - Iron/Gold Pendant: 5 string, 1 iron or gold. Adds no stats on its own, does has socketed stat.
 - Leather/Iron/Gold Gloves: 2 leather/iron/gold. Place them in middle left and middle right crafting slots. Adds some attack damage depending on material.
 
-5. Craft an Iron or higher tier Bag. 
+5. Craft a leather or higher tier Bag. 
+The leather bag is the lowest tier and is made by replacing the iron ingots with leather. To craft higher tiers, replace the ingots with: Gold Ingots, Diamonds, [Items for Voidbag].
+![Iron Bag](https://github.com/Blubberdique/Glugcore/assets/59876805/54f0bfbd-5f86-4226-b187-02c23c02db19)
+
+
+![Iron Ring](https://github.com/Blubberdique/Glugcore/assets/59876805/2f5fc804-535a-4346-9498-5f96d426b34e)
+![basic belt](https://github.com/Blubberdique/Glugcore/assets/59876805/8fc4fc45-b87d-455c-bb3f-4b5bda885ff0)
+![gloves](https://github.com/Blubberdique/Glugcore/assets/59876805/b9cd31f8-2c3c-4738-b900-8dd64592762e)
+![pendant](https://github.com/Blubberdique/Glugcore/assets/59876805/e9bae38b-0c0a-49f7-83de-d5fbbf76faa1)
