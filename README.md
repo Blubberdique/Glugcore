@@ -11,8 +11,9 @@ There are a few things which you want to start off with when just joining the wo
 2. Start constructing your own little shelter and keep using the Gettin' Started quests to progress just a little faster.
 3. Gather some iron. Once you have 2 iron ingots, get yourself 4 planks and create a smithing table.
 ---!      The smithing table is very useful, even early game! Apotheosis adds gems which can be socketed into tools, weapons and armor. Having a socketed stone sword is already better than a vanilla stone sword!      !---
+- ![Smithing table](https://github.com/Blubberdique/Glugcore/assets/59876805/3f251826-9e8b-4f80-b6da-4945fd5a20c3)
 
-4. Craft additional armor (accessories) and normal armor.
+5. Craft additional armor (accessories) and normal armor.
 - Basic Belt: 4 leather (top, right, down, left). Adds 1 armor toughness.
 - ![basic belt](https://github.com/Blubberdique/Glugcore/assets/59876805/8fc4fc45-b87d-455c-bb3f-4b5bda885ff0)
 - Iron/Gold Ring: 4 iron or gold (top, right, down, left). Adds no stats on its own, does have socketed stat. If they don't have socketed stat: Apotheosis grading is needed and making this armor now has no use.
